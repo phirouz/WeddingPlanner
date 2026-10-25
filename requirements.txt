@@ -1,0 +1,8 @@
+langchain>=1.3
+langchain-openai
+langchain-community
+langchain-mcp-adapters
+langgraph
+tavily-python
+python-dotenv
+mcp
